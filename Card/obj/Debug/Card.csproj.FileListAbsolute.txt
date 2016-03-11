@@ -1,0 +1,8 @@
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\bin\Debug\Card.exe.config
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\obj\Debug\Card.Properties.Resources.resources
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\bin\Debug\Card.exe
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\bin\Debug\Card.pdb
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\obj\Debug\Card.exe
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\Card\obj\Debug\Card.pdb

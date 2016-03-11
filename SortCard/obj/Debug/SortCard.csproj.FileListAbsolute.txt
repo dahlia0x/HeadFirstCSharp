@@ -1,0 +1,8 @@
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\bin\Debug\SortCard.exe.config
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\bin\Debug\SortCard.exe
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\bin\Debug\SortCard.pdb
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\bin\Debug\Cards.exe
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\bin\Debug\Cards.pdb
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\obj\Debug\SortCard.csprojResolveAssemblyReference.cache
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\obj\Debug\SortCard.exe
+c:\users\doh\documents\visual studio 2013\Projects\HeadFirstCSharp\SortCard\obj\Debug\SortCard.pdb
